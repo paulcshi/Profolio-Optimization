@@ -1,4 +1,4 @@
-# Profolio-Optimization-
+# Profolio-Optimization
 Gurobi Implementation
 * Quadratic Integer Program
 
